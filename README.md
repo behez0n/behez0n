@@ -2,18 +2,22 @@
 
 # `behez0n@infra:~$ whoami`
 
-## Tomás Peña
+## Tomás 'behez0n' Peña
 
 ### Systems Administrator · Infrastructure · Automation
 
-`Linux` · `Windows Server` · `Proxmox` · `Networking` · `Docker` · `Automation`
-
-<br>
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=for-the-badge\&logo=windows\&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-111111?style=for-the-badge\&logo=proxmox\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_Server-111111?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Proxmox_VE-111111?style=flat-square&logo=proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-111111?style=flat-square&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/cPanel%2FWHM-111111?style=flat-square&logo=cpanel&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white">
+</p>
 
 </div>
 
@@ -59,41 +63,6 @@ Infrastructure
 ├── Incident Response
 └── Automation
 ```
-
----
-
-## `~/stack`
-
-### Systems & Virtualization
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows_Server-111111?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Proxmox_VE-111111?style=flat-square&logo=proxmox&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-111111?style=flat-square&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white">
-</p>
-
-### Infrastructure & Services
-
-<p>
-  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache-111111?style=flat-square&logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/IIS-111111?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/cPanel%2FWHM-111111?style=flat-square&logo=cpanel&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=white">
-</p>
-
-### Automation & Tooling
-
-<p>
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
-</p>
 
 ---
 
@@ -182,21 +151,6 @@ When possible, reusable components, sanitized labs and generic implementations w
 
 ---
 
-## `~/principles`
-
-```text
-[01] Observe before changing.
-[02] Understand before automating.
-[03] Automate repetitive operations.
-[04] Make changes reproducible.
-[05] Document what matters.
-[06] Monitor what can fail.
-[07] Design for recovery.
-[08] Keep production boring.
-```
-
----
-
 ## `~/other-things`
 
 Infrastructure is the main focus, but not everything needs to run in a datacenter.
@@ -212,31 +166,3 @@ Things that probably didn't need automating
 ```
 
 ---
-
-<div align="center">
-
-### `uptime`
-
-```text
-Infrastructure · Systems Administration · Automation · Operations
-```
-
-**Keep systems observable. Keep changes reproducible. Keep production boring.**
-
-</div>
-
-
-<!--
-**behez0n/behez0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
